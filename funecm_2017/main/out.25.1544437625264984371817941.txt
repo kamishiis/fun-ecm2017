@@ -1,0 +1,18 @@
+Input number: 1544437625264984371817941  digits: 25
+B1=50000
+B2=5000000
+elliptic curves: 4000
+window size: 4
+threads = 12
+Stage1: d = 238455018858242923038831
+Stage1 time: 0.025267 seconds
+Stage2 time: ----
+total time: 0.025 seconds
+X=1247877574618667685894232
+Y=704586935741184452153096
+--------------------------------------------------
+@ probable prime factor found: 685949835289  digits: 12 cofactor: 2251531447069
+
+total time: 0.028 seconds
+
+

@@ -1,0 +1,117 @@
+Input number: 10589745305346776047  digits: 20
+B1=11000
+B2=1100000
+elliptic curves: 4000
+window size: 4
+threads = 12
+Stage1: d = 4188032360414930241
+Stage1 time: 0.027269 seconds
+Stage2 time: ----
+total time: 0.027 seconds
+X=9799980352318745345
+Y=2121262808657835220
+--------------------------------------------------
+@ probable prime factor found: 3291622079  digits: 10 cofactor: 3217181393
+
+Stage1: d = 4188032360414930241
+Stage1 time: 0.027528 seconds
+Stage2 time: ----
+Stage1: d = total time: 0.028 seconds
+X=41880323604149302419799980352318745345
+
+Y=Stage1 time: 0.027497 seconds
+Stage2 time: ----
+2121262808657835220
+--------------------------------------------------
+Stage1: d = total time: 0.028 seconds
+X=4188032360414930241
+9799980352318745345Stage1 time: 0.027505 seconds
+Stage2 time: ----
+
+Y=2121262808657835220
+--------------------------------------------------
+total time: 0.028 seconds
+X=9799980352318745345
+Y=2121262808657835220
+--------------------------------------------------
+@ probable prime factor found: 3291622079  digits: 10 cofactor: 3217181393
+
+@ probable prime factor found: 3291622079  digits: 10 cofactor: 3217181393
+
+@ probable prime factor found: 3291622079  digits: 10 cofactor: 3217181393
+
+Stage1: d = 4188032360414930241
+Stage1 time: 0.029974 seconds
+Stage2 time: ----
+total time: 0.030 seconds
+X=9799980352318745345
+Y=2121262808657835220
+--------------------------------------------------
+Stage1: d = 4188032360414930241
+Stage1 time: 0.029991 seconds
+Stage2 time: ----
+total time: 0.030 seconds
+X=9799980352318745345
+Y=2121262808657835220
+--------------------------------------------------
+@ probable prime factor found: 3291622079  digits: 10 cofactor: 3217181393
+
+Stage1: d = 4188032360414930241
+Stage1 time: 0.030027 seconds
+Stage2 time: ----
+total time: 0.030 seconds
+X=9799980352318745345
+Y=2121262808657835220
+--------------------------------------------------
+Stage1: d = 4188032360414930241
+Stage1 time: 0.030015 seconds
+Stage2 time: ----
+@ probable prime factor found: 3291622079  digits: 10 cofactor: 3217181393
+
+total time: 0.030 seconds
+X=9799980352318745345
+Y=2121262808657835220
+--------------------------------------------------
+@ probable prime factor found: 3291622079  digits: 10 cofactor: 3217181393
+
+@ probable prime factor found: 3291622079  digits: 10 cofactor: 3217181393
+
+Stage1: d = 7067946958512390192
+Stage1 time: 0.044844 seconds
+Stage2 time: ----
+total time: 0.045 seconds
+X=3486951298944570718
+Y=371232455558799165
+--------------------------------------------------
+@ probable prime factor found: 3291622079  digits: 10 cofactor: 3217181393
+
+Stage1: d = 5572551096669328014
+Stage1 time: 0.093518 seconds
+Stage2 time: 3.738953 seconds
+total time: 3.832 seconds
+X=253017114485403757
+Y=5668748275210017345
+--------------------------------------------------
+factor not found
+
+Stage1: d = 1628306920915606363
+Stage1 time: 0.082315 seconds
+Stage2 time: 3.932729 seconds
+total time: 4.015 seconds
+X=2237747780876017447
+Y=4362842425818421752
+--------------------------------------------------
+factor not found
+
+Stage1: d = 5572551096669328014
+Stage1 time: 0.093308 seconds
+Stage2 time: 6.022129 seconds
+total time: 6.115 seconds
+X=253017114485403757
+Y=5244900499192793922
+--------------------------------------------------
+factor not found
+
+total time: 6.123 seconds
+
+

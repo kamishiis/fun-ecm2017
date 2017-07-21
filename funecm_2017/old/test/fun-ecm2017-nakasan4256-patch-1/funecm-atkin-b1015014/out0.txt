@@ -1,0 +1,65 @@
+Input number: 10403  digits: 5
+B1=11000
+B2=40000
+elliptic curves: 4000
+window size: 4
+threads = 12
+Stage1: d = 4058
+Stage1 time: 0.001286 seconds
+Stage2 time: ----
+total time: 0.001 seconds
+Y=9955
+--------------------------------------------------
+factor not found
+
+Stage1: d = 602
+Stage1 time: 0.000672 seconds
+Stage2 time: ----
+total time: 0.001 seconds
+Y=4608
+--------------------------------------------------
+factor not found
+
+Stage1: d = 5122
+Stage1 time: 0.000922 seconds
+Stage2 time: ----
+total time: 0.001 seconds
+Y=6882
+--------------------------------------------------
+factor not found
+
+Stage1: d = 9373
+Stage1 time: 0.000679 seconds
+Stage2 time: ----
+total time: 0.001 seconds
+Y=4944
+--------------------------------------------------
+factor not found
+
+Stage1: d = 4798
+Stage1 time: 0.000663 seconds
+Stage2 time: ----
+total time: 0.001 seconds
+Y=2378
+--------------------------------------------------
+factor not found
+
+Stage1: d = 3026
+Stage1 time: 0.000683 seconds
+Stage2 time: ----
+total time: 0.001 seconds
+Y=7739
+--------------------------------------------------
+factor not found
+
+Stage1: d = 6907
+Stage1 time: 0.000042 seconds
+Stage2 time: ----
+total time: 0.000 seconds
+Y=4712
+--------------------------------------------------
+@ definite prime factor found: 103  digits: 3 cofactor: 101
+
+total time: 2.157 seconds
+
+
