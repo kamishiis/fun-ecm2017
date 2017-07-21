@@ -1,0 +1,117 @@
+Input number: 5484346338241230327973507  digits: 25
+B1=50000
+B2=5000000
+elliptic curves: 4000
+window size: 4
+threads = 12
+Stage1: d = 1654815277855389027353827
+Stage1 time: 0.091980 seconds
+Stage2 time: ----
+total time: 0.092 seconds
+X=2289338650017402685894279
+Y=2707999522146275154446522
+--------------------------------------------------
+@ probable prime factor found: 688659753259  digits: 12 cofactor: 7963796798473
+
+Stage1: d = 994132149262538610882408
+Stage1 time: 0.399081 seconds
+Stage2 time: 30.518994 seconds
+total time: 30.918 seconds
+X=4239833561088281108054570
+Y=3405593504029666125039480
+--------------------------------------------------
+factor not found
+
+Stage1: d = 1654815277855389027353827
+Stage1 time: 0.396345 seconds
+Stage2 time: 30.556748 seconds
+total time: 30.953 seconds
+X=2289338650017402685894279
+Y=210880644026355422360891
+--------------------------------------------------
+factor not found
+
+Stage1: d = 1472795369450985328295508
+Stage1 time: 0.399793 seconds
+Stage2 time: 30.620145 seconds
+total time: 31.020 seconds
+X=3205738203344270397506166
+Y=3402292962605876566915642
+--------------------------------------------------
+factor not found
+
+Stage1: d = 1472795369450985328295508
+Stage1 time: 0.399703 seconds
+Stage2 time: 30.621575 seconds
+total time: 31.021 seconds
+X=3205738203344270397506166
+Y=3402292962605876566915642
+--------------------------------------------------
+factor not found
+
+Stage1: d = 1472795369450985328295508
+Stage1 time: 0.396783 seconds
+Stage2 time: 30.626066 seconds
+total time: 31.023 seconds
+X=3205738203344270397506166
+Y=3402292962605876566915642
+--------------------------------------------------
+factor not found
+
+Stage1: d = 1472795369450985328295508
+Stage1 time: 0.399859 seconds
+Stage2 time: 30.623566 seconds
+total time: 31.023 seconds
+X=3205738203344270397506166
+Y=3402292962605876566915642
+--------------------------------------------------
+factor not found
+
+Stage1: d = 1472795369450985328295508
+Stage1 time: 0.396929 seconds
+Stage2 time: 30.633091 seconds
+total time: 31.030 seconds
+X=3205738203344270397506166
+Y=3402292962605876566915642
+--------------------------------------------------
+factor not found
+
+Stage1: d = 1472795369450985328295508
+Stage1 time: 0.399895 seconds
+Stage2 time: 30.635168 seconds
+total time: 31.035 seconds
+X=3205738203344270397506166
+Y=3402292962605876566915642
+--------------------------------------------------
+factor not found
+
+Stage1: d = 4486831201620621582194569
+Stage1 time: 0.399887 seconds
+Stage2 time: 30.643237 seconds
+total time: 31.043 seconds
+X=2814425780275369736095416
+Y=5426118241313235073605061
+--------------------------------------------------
+@ probable prime factor found: 688659753259  digits: 12 cofactor: 7963796798473
+
+Stage1: d = 1472795369450985328295508
+Stage1 time: 0.397322 seconds
+Stage2 time: 30.657360 seconds
+total time: 31.055 seconds
+X=3205738203344270397506166
+Y=3402292962605876566915642
+--------------------------------------------------
+factor not found
+
+Stage1: d = 1472795369450985328295508
+Stage1 time: 0.397013 seconds
+Stage2 time: 30.664690 seconds
+total time: 31.062 seconds
+X=3205738203344270397506166
+Y=3402292962605876566915642
+--------------------------------------------------
+factor not found
+
+total time: 31.068 seconds
+
+

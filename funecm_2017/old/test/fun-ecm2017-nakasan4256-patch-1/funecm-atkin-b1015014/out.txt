@@ -1,0 +1,17 @@
+Input number: 100000000000000000000000  digits: 24
+B1=100000000000000000
+B2=9223372036854775807
+elliptic curves: 4000
+window size: 4
+threads = 12
+Stage1: d = 30909129777263438475264
+Stage1 time: 0.000096 seconds
+Stage2 time: ----
+total time: 0.000 seconds
+Y=71768166044000945538912
+--------------------------------------------------
+@ composite prime factor found: 40  digits: 2 cofactor: 2500000000000000000000
+
+total time: 2.161 seconds
+
+

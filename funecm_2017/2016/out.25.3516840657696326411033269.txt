@@ -1,0 +1,117 @@
+Input number: 3516840657696326411033269  digits: 25
+B1=50000
+B2=5000000
+elliptic curves: 4000
+window size: 4
+threads = 12
+Stage1: d = 2017192866757607825293800
+Stage1 time: 0.048873 seconds
+Stage2 time: ----
+total time: 0.049 seconds
+X=2026025453844215953407942
+Y=861424077172652470880540
+--------------------------------------------------
+@ probable prime factor found: 596416335101  digits: 12 cofactor: 5896620281369
+
+Stage1: d = 2017192866757607825293800
+Stage1 time: 0.395931 seconds
+Stage2 time: 30.657980 seconds
+total time: 31.054 seconds
+X=2026025453844215953407942
+Y=681390240059503147394323
+--------------------------------------------------
+factor not found
+
+Stage1: d = 3166617500285649607375028
+Stage1 time: 0.397968 seconds
+Stage2 time: 30.695243 seconds
+total time: 31.093 seconds
+X=561093190788094839551159
+Y=2261671381643715157913087
+--------------------------------------------------
+@ probable prime factor found: 5896620281369  digits: 13 cofactor: 596416335101
+
+Stage1: d = 2765057368012937803030204
+Stage1 time: 0.403818 seconds
+Stage2 time: 30.687751 seconds
+total time: 31.092 seconds
+X=954648623440622659992915
+Y=2915547898239875860839637
+--------------------------------------------------
+factor not found
+
+Stage1: d = 3240165831181567512370282
+Stage1 time: 0.397814 seconds
+Stage2 time: 30.718239 seconds
+total time: 31.116 seconds
+X=488741259717812098856515
+Y=1059985893934851913482736
+--------------------------------------------------
+@ probable prime factor found: 596416335101  digits: 12 cofactor: 5896620281369
+
+Stage1: d = 3240165831181567512370282
+Stage1 time: 0.398018 seconds
+Stage2 time: 30.729903 seconds
+total time: 31.128 seconds
+X=488741259717812098856515
+Y=1059985893934851913482736
+--------------------------------------------------
+@ probable prime factor found: 596416335101  digits: 12 cofactor: 5896620281369
+
+Stage1: d = 2017192866757607825293800
+Stage1 time: 0.398708 seconds
+Stage2 time: 30.876510 seconds
+total time: 31.275 seconds
+X=2026025453844215953407942
+Y=681390240059503147394323
+--------------------------------------------------
+factor not found
+
+Stage1: d = 2017192866757607825293800
+Stage1 time: 0.398927 seconds
+Stage2 time: 30.880839 seconds
+total time: 31.280 seconds
+X=2026025453844215953407942
+Y=681390240059503147394323
+--------------------------------------------------
+factor not found
+
+Stage1: d = 2017192866757607825293800
+Stage1 time: 0.398663 seconds
+Stage2 time: 30.882117 seconds
+total time: 31.281 seconds
+X=2026025453844215953407942
+Y=681390240059503147394323
+--------------------------------------------------
+factor not found
+
+Stage1: d = 2017192866757607825293800
+Stage1 time: 0.399126 seconds
+Stage2 time: 30.885644 seconds
+total time: 31.285 seconds
+X=2026025453844215953407942
+Y=681390240059503147394323
+--------------------------------------------------
+factor not found
+
+Stage1: d = 2017192866757607825293800
+Stage1 time: 0.398754 seconds
+Stage2 time: 30.891984 seconds
+total time: 31.291 seconds
+X=2026025453844215953407942
+Y=681390240059503147394323
+--------------------------------------------------
+factor not found
+
+Stage1: d = 2017192866757607825293800
+Stage1 time: 0.409416 seconds
+Stage2 time: 30.923757 seconds
+total time: 31.333 seconds
+X=2026025453844215953407942
+Y=681390240059503147394323
+--------------------------------------------------
+factor not found
+
+total time: 31.339 seconds
+
+

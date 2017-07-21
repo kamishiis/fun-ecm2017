@@ -1,0 +1,43 @@
+# Makefile
+
+PROGRAM = funecm
+OBJS = bsgs.o atkin.o point.o double_add.o normal_add.o ecm.o scalar.o main.o
+CC = gcc
+LIBRARY = -lgmp -lrt
+
+#ifeq ($(ARCHITECTURE),Xeonphi) # for Xeonphi
+#	CFLAGS = -mmic -openmp -O2
+#	LIBDIR = -L/usr/local/lib
+#else # for Xeon
+#	CFLAGS = -openmp -O2
+#	LIBDIR = -L/home/project8/gmp/lib
+#endif
+
+CFLAGS = -fopenmp -O2 -lm -W -Wall -Wunused -Wunused-parameter
+LIBDIR = -L/usr/local/lib
+
+$(PROGRAM): $(OBJS)
+	$(CC) $(CFLAGS) -o $(PROGRAM) $^ $(LIBRARY) $(LIBDIR)
+
+main.o: main.c
+	$(CC) $(CFLAGS) -c $< -o $@
+point.o: point.c
+	$(CC) $(CFLAGS) -c $< -o $@
+double_add.o: double_add.c
+	$(CC) $(CFLAGS) -c $< -o $@
+normal_add.o: normal_add.c
+	$(CC) $(CFLAGS) -c $< -o $@
+ecm.o: ecm.c
+	$(CC) $(CFLAGS) -c $< -o $@
+scalar.o: scalar.c
+	$(CC) $(CFLAGS) -c $< -o $@
+atkin.o: atkin.c
+	$(CC) $(CFLAGS) -c $< -o $@
+bsgs.o: bsgs.c
+	$(CC) $(CFLAGS) -c $< -o $@
+
+all: clean $(PROGRAM)
+
+clean:
+	-rm -f $(PROGRAM) $(OBJS)
+
